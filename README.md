@@ -1,4 +1,4 @@
-# Portfolio-2d
+# Portfolio-2
 
 This is a webpage for Dexter Griffith's professional portfolio.
 
